@@ -53,25 +53,23 @@ body {
 .robot-head-left {
   left: 18%;
   transform: translateX(-18%);
-
 }
 
 .robot-head-right {
   right: 18%;
   transform: translateX(18%);
-
 }
 
-.robot:hover .robot-head-right{
+.robot:hover .robot-head-right {
   right: 6%;
   top: 6px;
 }
 
-.robot:hover .robot-head-left{
+.robot:hover .robot-head-left {
   left: 6%;
   top: 6px;
 }
 
-.robot:hover .robot-brain{
+.robot:hover .robot-brain {
   top: 40px;
 }
